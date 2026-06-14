@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on full-stack web development projects using the MERN Stack<br><br>👯 I'm looking to collaborate on real-world web applications and open-source contributions<br><br>🤝 I'm looking for help with backend development, system design, and interview preparation<br><br>🌱 I'm currently learning Java, DSA, MERN Stack, SQL, and AWS<br><br>💬 Ask me about Java, OOP, DSA, MERN, and CS Fundamentals<br><br>⚡ Fun fact: I believe consistent practice beats talent in programming
+🔭 I'm currently working on full-stack web development projects using the MERN Stack<br><br>👯 I'm looking to collaborate on real-world web applications and open-source contributions<br><br>🤝 I'm looking for help with backend development, system design, and interview preparation<br><br>🌱 I'm currently learning Java, DSA, MERN Stack, SQL,<br><br>💬 Ask me about Java, OOP, DSA, MERN, and CS Fundamentals<br><br>⚡ Fun fact: I believe consistent practice beats talent in programming
 
 
 ## 🌐 Socials:
